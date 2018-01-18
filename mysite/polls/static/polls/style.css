@@ -1,0 +1,9 @@
+li a {
+    color: magenta;
+    font-size: 25px;
+}
+
+body {
+    background: white url("images/fondo.png") no-repeat;
+
+}
